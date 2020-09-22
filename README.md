@@ -7,6 +7,9 @@ This project was created by foodies who find themselves getting stuck in the ryt
 ## Tech/framework used
 <b>Built with</b>
 - [React](https://reactjs.org/)
+- [Mapbox](https://www.mapbox.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Redux](https://redux.js.org/)
 
 ## Features
 Full CRUD functionality on restaurants.
